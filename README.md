@@ -1,6 +1,6 @@
 ## Introduction of Repository 
 
-This repository contains a Solidity smart contract named MyToken for a custom token called "Code" with the symbol "Super Code." This README file provides an overview of the project, code explanation, deployment instructions, usage guidelines, and the advantages of using this token contract.
+This repository contains a Solidity smart contract named Tokening for a custom token called "Welcome" with the symbol "Program" This README file provides an overview of the project, code explanation, deployment instructions, usage guidelines, and the advantages of using this token contract.
 
 ## Introduction To Token Contract 
 
